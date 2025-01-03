@@ -10,7 +10,7 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
 # Insert your Telegram bot token here
-BOT_TOKEN = '7437959233:AAFmyhvCozZI6W96Gr_KTarJ-TSLZ14gwbA'
+BOT_TOKEN = '7748076089:AAGuiDwnRgDNvlcwQcegfaeyg-m0jQT6KzQ'
  
 # Admin user IDs
 ADMIN_IDS = {"6401539018"}
