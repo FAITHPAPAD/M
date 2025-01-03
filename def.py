@@ -13,7 +13,7 @@ from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 BOT_TOKEN = '7437959233:AAFmyhvCozZI6W96Gr_KTarJ-TSLZ14gwbA'
  
 # Admin user IDs
-ADMIN_IDS = {"6127576279"}
+ADMIN_IDS = {"6401539018"}
 
 
 USER_FILE = "users.json"
